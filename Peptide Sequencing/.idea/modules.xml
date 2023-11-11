@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Protein Translation Problem.iml" filepath="$PROJECT_DIR$/.idea/Protein Translation Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Peptide Sequencing.iml" filepath="$PROJECT_DIR$/.idea/Peptide Sequencing.iml" />
     </modules>
   </component>
 </project>
