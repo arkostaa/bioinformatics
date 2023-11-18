@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7282dcfb-5e47-425a-8424-db3aaf6fd167" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Motif Enumeration Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Motif Search with pseudocounts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Motif Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Median String Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profile-most Probable k-mer Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Randomized Motif Search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
