@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81824aaa-1032-410f-ae45-85f2baa63632" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/.idea/pythonProject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/dataset.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/dataset_102_8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequence Problem/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Protein Translation Problem/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Protein Translation Problem/.idea/Protein Translation Problem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Protein Translation Problem/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Protein Translation Problem/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Protein Translation Problem/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Protein Translation Problem/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Protein Translation Problem/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="81824aaa-1032-410f-ae45-85f2baa63632" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Y2MgwkFMA8OBZMAVL0yWSqZVbW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -50,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/arkos/OneDrive/Рабочий стол/pythonProject1/Peptide Sequencing"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arkos/OneDrive/Рабочий стол/pythonProject1/Peptide Sequencing&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
